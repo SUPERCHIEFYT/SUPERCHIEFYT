@@ -20,7 +20,7 @@ Welcome to my 'main' account, this account is only used for certain projects for
 ➡ I use: `eslint` and `prettier`
 
 - Extra Information<br>
-➡ I've been on Discord since 2017 and started developing projects/bots on the platform since the start of 2018
+➡ I've been on Discord since 2017 and started developing projects/bots on the platform since the start of 2018<br>
 ➡ The coding languages, databases I know is listed above. 
 
 ---
