@@ -22,6 +22,7 @@ Welcome to my 'main' account, this account is only used for certain projects for
 - Extra Information<br>
 ➡ I've been on Discord since 2017 and started developing projects/bots on the platform since the start of 2018<br>
 ➡ The coding languages, databases I know is listed above. 
+➡ I've developed bots with the following features: `Moderation`, `AutoModeration`, `Utilities`, `Auto Responders`, `Giveaways`, `Custom Commands`, `Social Media Announcements (YouTube, Twitch, Twitter, Reddit)`, `Custom Embeds`, `Logging` and `Welcome/Leave Messages/Roles`
 
 ---
 
@@ -40,6 +41,7 @@ Welcome to my 'main' account, this account is only used for certain projects for
 ### My Projects 
 [<img align="left" width="22px" title="Elara | Discord Bot" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][website]
 [<img align="left" width="22px" title="Elara 2 | Discord Bot" src="https://cdn.superchiefyt.xyz/d/icons/Elara_Beta.png"/>][website]
+[<img align="left" width="22px" title="Aurora | Discord Bot" src="https://cdn.discordapp.com/avatars/946514911113142342/b312a2e58daed9736f8f192cb5ecf24b.png">][pro:aurora]
 [<img align="left" width="22px" title="Elara Services | Website" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][services]
 [<img align="left" width="22px" title="Elara Services | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:services]
 [<img align="left" width="22px" title="Discord Hook | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:hook]
@@ -69,3 +71,4 @@ Welcome to my 'main' account, this account is only used for certain projects for
 [pro:mb]: https://marksbot.mwserver.site
 [pro:jonin]: https://top.gg/bot/662517805983334416
 [pro:blueberry]: https://top.gg/bot/712351071858720769
+[pro:aurora]: https://top.gg/bot/946514911113142342
