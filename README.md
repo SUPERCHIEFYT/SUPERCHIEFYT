@@ -13,7 +13,7 @@ Welcome to my 'main' account, this account is only used for certain projects for
 ➡ Partly know: C#, Java, Python, GO, Lua, Ruby
 
 - Databases<br>
-➡ I know: MongoDB, SQlite<br>
+➡ I know: MongoDB, SQlite, Prisma<br>
 ➡ Partly know: PostgreSQL, Redis 
 
 - Extra Information<br>
