@@ -9,16 +9,19 @@ Welcome to my 'main' account, this account is only used for certain projects for
 #### About Me
 - My name is SUPERCHIEFYT(or CHIEF) 
 - Coding languages:<br>
-➡ I know: JavaScript, TypeScript, HTML<br>
-➡ Partly know: C#, Java, Python, GO, Lua, Ruby
+➡ I know: `JavaScript`, `TypeScript`, `HTML`<br>
+➡ Partly know: `C#`, `Java`, `Python`, `GO`, `Lua`, `Ruby`
 
 - Databases<br>
-➡ I know: MongoDB, SQlite, Prisma<br>
-➡ Partly know: PostgreSQL, Redis 
+➡ I know: `MongoDB`, `SQlite`, `Prisma`<br>
+➡ Partly know: `PostgreSQL`, `Redis` 
+
+- Utilities<br>
+➡ I use: `eslint` and `prettier`
 
 - Extra Information<br>
-- I've been on Discord since 2017 and started developing projects/bots on the platform since the start of 2018
-- The coding languages, databases I know is listed above. 
+➡ I've been on Discord since 2017 and started developing projects/bots on the platform since the start of 2018
+➡ The coding languages, databases I know is listed above. 
 
 ---
 
