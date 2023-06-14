@@ -22,7 +22,7 @@ Welcome to my 'main' account, this account is only used for certain projects for
 - Extra Information<br>
 ➡ I've been on Discord since 2017 and started developing projects/bots on the platform since the start of 2018<br>
 ➡ The coding languages, databases I know is listed above. <br>
-➡ I've developed bots with the following features: `Moderation`, `AutoModeration`, `Utilities`, `Auto Responders`, `Giveaways`, `Custom Commands`, `Social Media Announcements (YouTube, Twitch, Twitter, Reddit)`, `Custom Embeds`, `Logging` and `Welcome/Leave Messages/Roles`
+➡ I've developed bots with the following features: `Moderation`, `AutoModeration`, `Utilities`, `Auto Responders`, `Giveaways`, `Custom Commands`, `Social Media Announcements (YouTube, Twitch, Twitter, Reddit)`, `Custom Embeds`, `Logging`, `Currency`, `Image-related commands` and `Welcome/Leave Messages/Roles`
 
 ---
 
