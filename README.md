@@ -7,7 +7,8 @@ Welcome to my 'main' account, this account is only used for certain projects for
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SUPERCHIEFYT&label=Profile%20views&color=0e75b6&style=flat" alt="SUPERCHIEFYT" /> - Blame <a href="https://github.com/ValAlpha">ValAlpha</a> </p>
 
 #### About Me
-- My name is SUPERCHIEFYT(or CHIEF) 
+- My name is SUPERCHIEFYT(or CHIEF)
+- Support me on <img width="18px" title="Patreon" src="https://cdn.discordapp.com/emojis/920524344042606695.png"/> [Patreon](https://patreon.com/elaraservices) or through <img width="18px" title="PayPal" src="https://cdn.discordapp.com/emojis/1106809124299214858.png"/> [PayPal](https://paypal.me/superchiefyt)
 - Coding languages:<br>
 ➡ I know: `JavaScript`, `TypeScript`, `HTML`<br>
 ➡ Partly know: `C#`, `Java`, `Python`, `GO`, `Lua`, `Ruby`
