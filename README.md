@@ -32,7 +32,6 @@ Welcome to my 'main' account, this account is only used for certain projects for
 
 [<img align="left" title="superchiefyt.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" title="SUPERCHIEFYT | YouTube" width="22px" src="https://cdn.superchiefyt.xyz/api/bot/youtube.png" />][YouTube]
-[<img align="left" title="Elara Services | Twitter" width="22px" src="https://cdn.superchiefyt.xyz/api/bot/twitter.png" />][twitterElara]
 [<img align="left" title="SUPERCHIEFYT | Twitter" width="22px" src="https://cdn.superchiefyt.xyz/api/bot/twitter.png" />][twitterSuper]
 [<img align="left" title="The Elara Services Discord" width="22px" src="https://cdn.superchiefyt.xyz/api/bot/discord.gif"/>][Discord]
 
@@ -46,7 +45,6 @@ Welcome to my 'main' account, this account is only used for certain projects for
 [<img align="left" width="22px" title="Aurora | Discord Bot" src="https://cdn.discordapp.com/avatars/946514911113142342/b312a2e58daed9736f8f192cb5ecf24b.png">][pro:aurora]
 [<img align="left" width="22px" title="Elara Services | Website" src="https://cdn.superchiefyt.xyz/d/icons/Elara.png"/>][services]
 [<img align="left" width="22px" title="Elara Services | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:services]
-[<img align="left" width="22px" title="Discord Hook | NPM" src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/npm/npm.png"/>][npm:hook]
 
 <br />
 
@@ -55,7 +53,6 @@ Welcome to my 'main' account, this account is only used for certain projects for
 ### Projects I help with 
 [<img align="left" width="22px" title="MarksBot | Discord Bot" src="https://github.com/Elara-Discord-Bots/Bot-Images/blob/master/bot/MarksBot.png?raw=true"/>][pro:mb]
 [<img align="left" width="22px" title="Jonin | Discord Bot" src="https://cdn.discordapp.com/avatars/662517805983334416/c897529c342666e5269a764adba588c2.png"/>][pro:jonin]
-[<img align="left" width="22px" title="BlueBerry | Discord Bot" src="https://cdn.discordapp.com/avatars/712351071858720769/ceb8bdc58c72d32e165c54a323236bb9.png"/>][pro:blueberry]
 
 <br />
 
